@@ -1,0 +1,13 @@
+{
+    "version": "3.6.2",
+    "name": "plyr",
+    "title": "Media player",
+    "package-type": "library",
+    "repository": "https://github.com/arikaim/plyr-library.git",
+    "help": "https://plyr.io",
+    "description": "Media player JavaScript library",
+    "files": [
+        "plyr-3.6.2.min.js",
+        "plyr-3.6.2.css"
+    ]       
+}
